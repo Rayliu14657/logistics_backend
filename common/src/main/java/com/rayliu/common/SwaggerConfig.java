@@ -31,7 +31,7 @@ public class SwaggerConfig {
                 .title("基本信息模块-API文档")
                 .description("本文档描述了物流管理系统项目中基本信息模块的微服务接口定义")
                 .version("1.0")
-                .contact(new Contact("张三", "http://www.baidu.com", "5977649949@qq.com"))
+                .contact(new Contact("Rayliu", "http://www.xxxxxx.com", "2494793430@qq.com"))
                 .build();
     }
 
